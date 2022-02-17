@@ -1,0 +1,16 @@
+sys_app.c:130:6:getUart	32	static
+sys_app.c:398:13:tiny_snprintf_like.constprop	16	static
+sys_app.c:362:13:TimestampNow	32	static
+sys_app.c:122:10:i2c_send_byteS	0	static
+sys_app.c:126:10:i2c_send_byteS_rgb	0	static
+sys_app.c:167:6:SystemApp_Init	8	static
+sys_app.c:240:6:UTIL_SEQ_Idle	0	static
+sys_app.c:251:9:GetBatteryLevel	16	static
+sys_app.c:285:10:GetTemperatureLevel	8	static
+sys_app.c:296:6:GetUniqueId	16	static
+sys_app.c:336:10:GetDevAddr	8	static
+sys_app.c:376:6:UTIL_ADV_TRACE_PreSendHook	0	static
+sys_app.c:387:6:UTIL_ADV_TRACE_PostSendHook	0	static
+sys_app.c:421:19:HAL_InitTick	0	static
+sys_app.c:436:10:HAL_GetTick	0	static
+sys_app.c:451:6:HAL_Delay	8	static

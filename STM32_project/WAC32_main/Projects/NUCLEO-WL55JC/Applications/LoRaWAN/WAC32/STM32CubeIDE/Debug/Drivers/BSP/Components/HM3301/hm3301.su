@@ -1,0 +1,4 @@
+hm3301.c:10:8:hm3301_i2c_read	8	static
+hm3301.c:14:8:hm3301_i2c_write	8	static
+hm3301.c:19:6:hm3301_i2c_init	0	static
+hm3301.c:24:6:hm3301_i2c_getPM_concentration	16	static
